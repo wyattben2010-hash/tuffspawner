@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "tuffspawner",
   "version": "${version}",
-  "name": "Tuff Spawner",
+  "name": "Full Bright",
   "description": "Client-side only: makes tuff look like a skeleton spawner with a Donut SMP style tooltip.",
   "authors": [],
   "license": "MIT",
