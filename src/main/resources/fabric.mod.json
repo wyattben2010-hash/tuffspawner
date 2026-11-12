@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tuffspawner",
+  "version": "${version}",
+  "name": "Tuff Spawner",
+  "description": "Client-side only: makes tuff look like a skeleton spawner with a Donut SMP style tooltip.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.tuffspawner.TuffSpawnerClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
